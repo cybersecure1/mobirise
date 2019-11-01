@@ -1,2 +1,2 @@
-# mobirise
+# home
 GitHub Pages
